@@ -135,3 +135,4 @@ typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 alias cevir='trans -b'
 alias ceviri='trans -b -sp'
 #########################
+source ~/powerlevel10k/powerlevel10k.zsh-theme
